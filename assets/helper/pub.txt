@@ -1,0 +1,206 @@
+2024 
+
+Exploring the Nexus Between Retrievability and Query Generation Strategies.
+link - https://arxiv.org/abs/2404.09473
+
+Ensemble methods for improving extractive summarization of legal case judgements.
+link - https://link.springer.com/article/10.1007/s10506-023-09349-8
+
+Working Notes of FIRE 2023 - Forum for Information Retrieval Evaluation (FIRE-WN 2023), Goa, India, December 15-18, 2023.
+link - https://dblp.org/db/conf/fire/fire2023w.html
+
+Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification. 
+link - https://doi.org/10.48550/arXiv.2402.18502
+
+Artificial Intelligence (AI) in Legal Data Mining.
+link - https://doi.org/10.48550/arXiv.2405.14707
+
+2023 
+
+DeepRhole: deep learning for rhetorical role labeling of sentences in legal case documents.
+link - https://doi.org/10.1007/s10506-021-09304-5
+
+Legal IR and NLP: The History, Challenges, and State-of-the-Art. 
+link - https://doi.org/10.1007/978-3-031-28241-6_34
+
+LLMs - the Good, the Bad or the Indispensable?: A Use Case on Legal Statute Prediction and Legal Judgment Prediction on Indian Court Cases.
+link - https://doi.org/10.18653/v1/2023.findings-emnlp.831
+
+Overview of the FIRE 2023 Track: Artificial Intelligence on Social Media (AISoMe).
+link - https://ceur-ws.org/Vol-3681/T1-1.pdf
+
+Overview of the FIRE 2023 Track: Artificial Intelligence on Social Media (AISoMe). 
+link - https://doi.org/10.1145/3632754.3633276
+
+CricGPT: A GPT-aided Question-Answering system for Cricket.
+link - https://doi.org/10.1145/3632754.3632757
+
+A Comparative Analysis of Retrievability and PageRank Measures.
+link - https://doi.org/10.1145/3632754.3632760
+
+How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?  
+link - https://ceur-ws.org/Vol-3423/paper2.pdf
+
+Exemplar-Free Continual Transformer with Convolutions.
+link - https://doi.org/10.1109/ICCV51070.2023.00542
+
+LeDA: A System for Legal Data Annotation
+link - https://doi.org/10.3233/FAIA230990
+
+Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation.
+link - https://doi.org/10.18653/v1/2023.semeval-1.180
+
+Fairness for both Readers and Authors: Evaluating Summaries of User Generated Content.
+link - https://doi.org/10.1145/3539618.3591986
+
+Working Notes of FIRE 2022 - Forum for Information Retrieval Evaluation, Kolkata, India, December 9-13, 2022. 
+link - https://dblp.org/db/conf/fire/fire2022w.html
+
+How Ready are Pre-trained Abstractive Models and LLMs for Legal Case Judgement Summarization?
+link - https://doi.org/10.48550/arXiv.2306.01248
+
+Exemplar-Free Continual Transformer with Convolutions. 
+link - https://doi.org/10.48550/arXiv.2308.11357
+
+Nonet at SemEval-2023 Task 6: Methodologies for Legal Evaluation.
+link - https://doi.org/10.48550/arXiv.2310.11049
+
+Automated Attribute Extraction from Legal Proceedings. 
+link - https://doi.org/10.48550/arXiv.2310.12131
+
+Weakly supervised deep metric learning on discrete metric spaces for privacy-preserved clustering.
+link - https://doi.org/10.1016/j.ipm.2022.103109
+
+Findability: A Novel Measure of Information Accessibility.
+link - https://doi.org/10.1145/3583780.3615256
+
+A Comparative Analysis of Retrievability and PageRank Measures.
+link - https://doi.org/10.1145/3632754.3632760
+
+Bibliography Counselor: A Citation Recommendation Tool.
+link - https://doi.org/10.1109/JCDL57899.2023.00051
+
+LeDA: A System for Legal Data Annotation.
+link - https://doi.org/10.3233/FAIA230990
+
+Retrievability in an Integrated Retrieval System: An Extended Study.
+link - https://doi.org/10.48550/arXiv.2303.15036
+
+Findability: A Novel Measure of Information Accessibility.
+link - https://doi.org/10.48550/arXiv.2310.09508
+
+Automated Attribute Extraction from Legal Proceedings.
+link - https://doi.org/10.48550/arXiv.2310.12131
+
+A Comparative Analysis of Retrievability and PageRank Measures. 
+link - https://doi.org/10.48550/arXiv.2311.10348
+
+2022
+
+Information asymmetry in Wikipedia across different languages: A statistical analysis.
+link - https://doi.org/10.1002/asi.24553
+
+Report on the 2nd Symposium on Artificial Intelligence and Law (SAIL) 2022. 
+link - https://doi.org/10.1145/3582524.3582538
+
+Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs.
+link - https://doi.org/10.1145/3511808.3557637
+
+NLP-IISERB@Simpletext2022: To Explore the Performance of BM25 and Transformer Based Frameworks for Automatic Simplification of Scientific Texts.
+link - https://ceur-ws.org/Vol-3180/paper-244.pdf
+
+Local or Global? A Comparative Study on Applications of Embedding Models for Information Retrieval.
+link - https://doi.org/10.1145/3493700.3493701
+
+Studying retrievability of publications and datasets in an integrated retrieval system.
+link - https://doi.org/10.1145/3529372.3530931
+
+On modifying evaluation measures to deal with ties in ranked lists.
+link - https://doi.org/10.1145/3529372.3533291
+
+MAKED: Multi-lingual Automatic Keyword Extraction Dataset.
+link - https://aclanthology.org/2022.lrec-1.664
+
+Studying Retrievability of Publications and Datasets in an Integrated Retrieval System. 
+link - https://doi.org/10.48550/arXiv.2205.00937
+
+A Birds Eye View on Knowledge Graph Embeddings, Software Libraries, Applications and Challenges.
+link - https://doi.org/10.48550/arXiv.2205.09088
+
+A sequence labeling model for catchphrase identification from legal case documents.
+link - https://doi.org/10.1007/s10506-021-09296-2
+
+Legal case document similarity: You need both network and text. 
+link - https://doi.org/10.1016/j.ipm.2022.103069
+
+Report on the 2nd Symposium on Artificial Intelligence and Law (SAIL) 2022.
+link - https://doi.org/10.1145/3582524.3582538
+
+Overview of the FIRE 2022 track: Information Retrieval from Microblogs during Disasters (IRMiDis).
+link - https://doi.org/10.1145/3574318.3574319
+
+Overview of the FIRE 2022 track: Information Retrieval from Microblogs during Disasters (IRMiDis). 
+link - https://ceur-ws.org/Vol-3395/T5-1.pdf
+
+Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation.
+link - https://aclanthology.org/2022.aacl-main.77
+
+Legal Case Document Similarity: You Need Both Network and Text. 
+link - https://doi.org/10.48550/arXiv.2209.12474
+
+Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation.
+link - https://doi.org/10.48550/arXiv.2210.07544
+
+2021 
+
+Tag embedding based personalized point of interest recommendation system.
+link - https://doi.org/10.1016/j.ipm.2021.102690
+
+Overview of the Causality-driven Adhoc Information Retrieval (CAIR) task at FIRE-2021. 
+link - https://doi.org/10.1145/3503162.3505648
+
+Overview of the Causality-driven Adhoc Information Retrieval (CAIR) task at FIRE-2021. 
+link - https://ceur-ws.org/Vol-3159/T9-1.pdf
+
+ConSTR: A Contextual Search Term Recommender.
+link - https://doi.org/10.1109/JCDL52503.2021.00042
+
+ConSTR: A Contextual Search Term Recommender.
+link - https://arxiv.org/abs/2106.04376
+
+Unsupervised approaches for measuring textual similarity between legal court case reports.
+link - https://doi.org/10.1007/s10506-020-09280-2
+
+An Unsupervised Normalization Algorithm for Noisy Text: A Case Study for Information Retrieval and Stance Detection.
+link - https://doi.org/10.1145/3418036
+
+ILDC for CJPE: Indian Legal Documents Corpus for Court Judgment Prediction and Explanation. 
+link - https://doi.org/10.18653/v1/2021.acl-long.313
+
+AILA 2021: Shared task on Artificial Intelligence for Legal Assistance. 
+link - https://doi.org/10.1145/3503162.3506571
+
+Overview of the FIRE 2021 track: Information Retrieval from Microblogs during Disasters (IRMiDis).
+link - https://doi.org/10.1145/3503162.3503174
+
+Overview of the Third Shared Task on Artificial Intelligence for Legal Assistance at FIRE 2021.
+link - https://ceur-ws.org/Vol-3159/T2-1.pdf
+
+Incorporating domain knowledge for extractive summarization of legal case documents. 
+link - https://doi.org/10.1145/3462757.3466092
+
+An Analytical Study of Algorithmic and Expert Summaries of Legal Cases. 
+link - https://doi.org/10.3233/FAIA210322
+
+An Unsupervised Normalization Algorithm for Noisy Text: A Case Study for Information Retrieval and Stance Detection.
+link - https://arxiv.org/abs/2101.03303
+
+Fairness for Whom? Understanding the Reader's Perception of Fairness in Text Summarization. 
+link - https://arxiv.org/abs/2101.12406
+
+ILDC for CJPE: Indian Legal Documents Corpus for Court JudgmentPrediction and Explanation. 
+link - https://arxiv.org/abs/2105.13562
+
+Incorporating Domain Knowledge for Extractive Summarization of Legal Case Documents. 
+link - https://arxiv.org/abs/2106.15876
+
