@@ -365,3 +365,26 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+
+.publication-year {
+  margin-top: 20px;
+  /* font-size: 1.5em; */
+  font-weight: bold;
+  background-color: lightblue;
+  /* padding: 50px */
+}
+
+.publication-item {
+  padding: 10px;
+  margin: 8px 10%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  max-width: 80%;
+}
+
+.publication-item:hover {
+  background-color: #999999;
+}
