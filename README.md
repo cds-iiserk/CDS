@@ -1,2 +1,2 @@
-# CDS_website
-CDS IISER-K website
+# CDS_Website
+making IISERK's CDS website
